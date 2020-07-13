@@ -6,7 +6,7 @@ const { GameObjects } = window.Phaser;
  * @param  {Number} score
  * @return {String}
  */
-const scoreTemplate = score => `Score: ${score}`;
+const scoreTemplate = score => `Bayan Score: ${score}`;
 
 export default class Score extends GameObjects.Text {
   constructor(scene, x, y, text, style) {
