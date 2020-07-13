@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/best-breakout/static/css/main.a421fb84.chunk.css",
+    "main.js": "/best-breakout/static/js/main.e640be4d.chunk.js",
+    "main.js.map": "/best-breakout/static/js/main.e640be4d.chunk.js.map",
+    "runtime-main.js": "/best-breakout/static/js/runtime-main.7e4c2926.js",
+    "runtime-main.js.map": "/best-breakout/static/js/runtime-main.7e4c2926.js.map",
+    "index.html": "/best-breakout/index.html",
+    "precache-manifest.6384a243156805e5d92c882ee512c18c.js": "/best-breakout/precache-manifest.6384a243156805e5d92c882ee512c18c.js",
+    "service-worker.js": "/best-breakout/service-worker.js",
+    "static/css/main.a421fb84.chunk.css.map": "/best-breakout/static/css/main.a421fb84.chunk.css.map",
+    "static/media/dude.png": "/best-breakout/static/media/dude.526a78a9.png",
+    "static/media/platform.png": "/best-breakout/static/media/platform.69db09bf.png",
+    "static/media/sky.png": "/best-breakout/static/media/sky.47a86b19.png",
+    "static/media/star.png": "/best-breakout/static/media/star.a7cb585c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e4c2926.js",
+    "static/css/main.a421fb84.chunk.css",
+    "static/js/main.e640be4d.chunk.js"
+  ]
+}
