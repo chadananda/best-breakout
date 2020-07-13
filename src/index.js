@@ -8,7 +8,7 @@ const { Game, Scale } = window.Phaser;
  * @see {@link https://photonstorm.github.io/phaser3-docs/global.html#GameConfig}
  */
 const config = {
-  width: 1000,
+  width: 800,
   height: 600,
   title: 'Best breakout',
   // see `.env` and `package.json`
