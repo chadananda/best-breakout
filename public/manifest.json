@@ -1,6 +1,6 @@
 {
-  "short_name": "[[project_name]]",
-  "name": "[[game_title]]",
+  "short_name": "best-breakout",
+  "name": "Best breakout",
   "icons": [
     {
       "src": "favicon.ico",

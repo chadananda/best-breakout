@@ -1,8 +1,8 @@
 {
-  "name": "[[project_name]]",
+  "name": "best-breakout",
   "version": "1.0.0",
-  "description": "[[game_description]]",
-  "author": "[[author_name]] <[[author_email]]>",
+  "description": "greatest game ever",
+  "author": "Chad <chadananda@gmail.com>",
   "scripts": {
     "build": "web-scripts build",
     "clean": "rm -rf build",
@@ -14,7 +14,7 @@
     "test": "web-scripts test",
     "test:ci": "CI=true npm test -- --passWithNoTests"
   },
-  "homepage": "https://[[game_domain]]",
+  "homepage": "https://chadananda.github.io/best-breakout",
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-conventional": "^9.0.1",
